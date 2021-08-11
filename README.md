@@ -1,4 +1,4 @@
-# python-app-recent edited @8th Aug 2021
+# python-app-recent edited @8th Aug 2021 added new config
 Python app for CI CD
 
 
